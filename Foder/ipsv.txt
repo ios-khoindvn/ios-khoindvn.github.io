@@ -1,1 +1,1 @@
-NSOGO:14.225.203.114:14444:0:0,NSOG:sv1.nsog.me:14444:0:0
+NSOGO:14.225.203.114:14444:0:0,NSOG:sv1.nsog.me:14444:0:0,khơindvn(new):com.nsokhoindvn.com:14444:0:1
